@@ -1,0 +1,12 @@
+{
+    "id": 1,
+    "name": "Shirt",
+    "picture": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1915&q=80",
+    "price": 120,
+    "size": "S",
+    "color": "black",
+    "description": "good quality",
+    "amount": 20,
+    "type": "Shirt",
+    "rating": "3"
+}

@@ -1,0 +1,6 @@
+{
+    "id": 1,
+    "product": "$product",
+    "customer": "$customer",
+    "amount": 2
+}
